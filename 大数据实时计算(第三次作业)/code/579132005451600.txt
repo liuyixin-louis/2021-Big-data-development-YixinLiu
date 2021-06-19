@@ -1,0 +1,17 @@
+{"value":{"buy_time":"2019-11-27 17:38:23.0","buy_address":"济南市环市东路367号","origin":"济南市","destination":"沈阳市","username":"严溶溶"},"metadata":{"offset":5591,"topic":"zzy_buy_ticket_1","partition":0}}
+{"value":{"buy_time":"2019-10-03 14:05:54.0","buy_address":"济南市大道中明月一路9号","origin":"济南市","destination":"南宁市","username":"鲍夫子"},"metadata":{"offset":5675,"topic":"zzy_buy_ticket_1","partition":0}}
+{"value":{"buy_time":"2019-09-11 16:17:21.0","buy_address":"济南市环市东路339号","origin":"济南市","destination":"怀化市","username":"杨忠林"},"metadata":{"offset":5777,"topic":"zzy_buy_ticket_1","partition":0}}
+{"value":{"buy_time":"2019-03-16 09:42:19.0","buy_address":"济南市大道中明月一路9号","origin":"济南市","destination":"湘潭市","username":"鲍天赫"},"metadata":{"offset":5787,"topic":"zzy_buy_ticket_1","partition":0}}
+{"value":{"buy_time":"2019-11-11 18:15:23.0","buy_address":"济南市环市东路326号之一","origin":"济南市","destination":"湘潭市","username":"赵伟洋"},"metadata":{"offset":5803,"topic":"zzy_buy_ticket_1","partition":0}}
+{"value":{"buy_time":"2019-10-05 12:00:08.0","buy_address":"济南市天河路188号","origin":"济南市","destination":"珠海市","username":"雷夫子"},"metadata":{"offset":5831,"topic":"zzy_buy_ticket_1","partition":0}}
+{"value":{"buy_time":"2019-09-06 17:49:11.0","buy_address":"济南市江南大道中232号A座","origin":"济南市","destination":"茂名市","username":"周运昊"},"metadata":{"offset":5910,"topic":"zzy_buy_ticket_1","partition":0}}
+{"value":{"buy_time":"2019-12-09 19:34:46.0","buy_address":"济南市东风路391号","origin":"济南市","destination":"乌鲁木齐市","username":"尤建林"},"metadata":{"offset":5933,"topic":"zzy_buy_ticket_1","partition":0}}
+{"value":{"buy_time":"2019-05-01 11:46:04.0","buy_address":"济南市环市东路326号之一","origin":"济南市","destination":"益阳市","username":"柏晓庆"},"metadata":{"offset":5949,"topic":"zzy_buy_ticket_1","partition":0}}
+{"value":{"buy_time":"2019-07-05 16:37:21.0","buy_address":"济南市沿江东路451号","origin":"济南市","destination":"攀枝花市","username":"卜伟"},"metadata":{"offset":6044,"topic":"zzy_buy_ticket_1","partition":0}}
+{"value":{"buy_time":"2019-08-30 13:12:34.0","buy_address":"济南市环市东路368号","origin":"济南市","destination":"东莞市","username":"王文昊"},"metadata":{"offset":6149,"topic":"zzy_buy_ticket_1","partition":0}}
+{"value":{"buy_time":"2019-01-10 17:36:45.0","buy_address":"济南市环市北较场路19号(地铁站小北站B出口)","origin":"济南市","destination":"肇庆市","username":"郑晓庆"},"metadata":{"offset":6177,"topic":"zzy_buy_ticket_1","partition":0}}
+{"value":{"buy_time":"2019-08-30 13:11:16.0","buy_address":"济南市环市东路326号之一","origin":"济南市","destination":"湘潭市","username":"平运昊"},"metadata":{"offset":6430,"topic":"zzy_buy_ticket_1","partition":0}}
+{"value":{"buy_time":"2019-09-10 19:45:50.0","buy_address":"济南市环市北较场路19号(地铁站小北站B出口)","origin":"济南市","destination":"巴中市","username":"赵晶莹"},"metadata":{"offset":6465,"topic":"zzy_buy_ticket_1","partition":0}}
+{"value":{"buy_time":"2019-04-02 15:12:26.0","buy_address":"济南市麓景路黄田直街1-2号","origin":"济南市","destination":"郴州市","username":"薛益帆"},"metadata":{"offset":6472,"topic":"zzy_buy_ticket_1","partition":0}}
+{"value":{"buy_time":"2019-08-26 10:46:51.0","buy_address":"济南市环市东路367号","origin":"济南市","destination":"绵阳市","username":"俞欣汝"},"metadata":{"offset":6544,"topic":"zzy_buy_ticket_1","partition":0}}
+{"value":{"buy_time":"2019-10-20 13:34:36.0","buy_address":"济南市温泉镇温泉西路55号","origin":"济南市","destination":"内江市","username":"吕若萌"},"metadata":{"offset":6595,"topic":"zzy_buy_ticket_1","partition":0}}

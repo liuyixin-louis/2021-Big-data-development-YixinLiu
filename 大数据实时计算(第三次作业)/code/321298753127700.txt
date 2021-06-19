@@ -1,0 +1,1 @@
+{"buy_time":"2020-03-20 20:34:13.0","buy_address":"广州市南站","origin":"广州市","destination":"潮州市","username":"吴诗"}
