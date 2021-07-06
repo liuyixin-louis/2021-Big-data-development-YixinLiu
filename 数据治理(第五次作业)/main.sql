@@ -130,10 +130,8 @@ comment on column data_homework.GOODS.goods_id
  comment on column data_homework.GOODS.good_type
   is '商品类型';
 
-
+  
 -- query 
-
-
 -- 月查询总体销售额
 select A.month,count(A.month) from (
 	select time,EXTRACT(MONTH FROM time)as month from data_homework.orders group by time
